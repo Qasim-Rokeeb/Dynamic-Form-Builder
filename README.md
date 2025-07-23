@@ -18,7 +18,7 @@ A simple yet powerful form builder that lets you dynamically create and preview 
 
 ## 🖼️ Preview
 
-![App Preview](https://raw.githubusercontent.com/your-username/dynamic-form-builder/main/screenshot.png)
+![App Preview](https://raw.githubusercontent.com/qasim-rokeeb/dynamic-form-builder/main/screenshot.png)
 
 ## 📦 Installation
 
