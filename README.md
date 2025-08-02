@@ -44,4 +44,3 @@ I'm Qasim Rokeeb, a frontend developer passionate about building beautiful UIs a
 - [GitHub](https://github.com/Qasim-Rokeeb)
 ```
 
----
